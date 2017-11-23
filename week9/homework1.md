@@ -11,6 +11,7 @@
 ##### Movie - Novitiate 
 
 Review: The anguish of Margaret Qualley is riveting, and Melissa Leo delivers a powerhouse performance in this solemn, soulful melodrama, pulling back the curtain on the secrecy of convent life.
+
 Predicted sentiment: Positive
 Probability: 0.9
 
@@ -29,11 +30,8 @@ Probability: 0.9
 
 Review :
  'Perfect music by Vangelis, perfect acting by Harrison Ford and Sean Young, haunting performance by Rutger Hauer, Ridley Scott at his best, SFX almost up-to-date, what can I say?'
-
 'Well, I could say only one thing: this movie, a masterpiece of its own, is again a proof that Philip K. Dicks work is very hard to translate into a mainstream movie.'
-
 'SPOILER AHEAD!!!'
-
 'In the book, Rachel has sex with Deckard in order to prevent him from killing the other replicants. She does it as a job for Tyrell Corporation, in a sense. And Deckard ends up thinking that only child born humans are humans, man built androids are not. Dick answers one of his main question in this book: What is humanity? The movie gives the opposite answer. Rachel is human for Deckard, maybe more human than Bryant or Tyrell. This is Scotts sacrifice to the happy ending. Directors cut end is less happy (how ridiculous was this extended lifespan story?). My end to the movie would s ee Deckard kill Rachel while shes asleep.'
  'Some would say the actual end gives the movie more power by leading the audience to think Deckard is a replicant.'
  'How about a man who protects himself from mere sexual desire by killing a machine? Not a happy end, I know...'
@@ -55,6 +53,7 @@ Probability: 1.0
 ##### Movie - GeoStorm
 
 Review: This was bad.... really bad! I am a big disaster movie fan and can sit through most things, but wow this was really boring.. the characters are shallow, predictable and the chemistry between them stilted and forced.
+
 Predicted sentiment: Negative
 Probability: 0.78
 
