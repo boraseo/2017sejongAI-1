@@ -1,12 +1,11 @@
-## 감성 분석기 코드 분석 보고서 
+# 감성 분석기 코드 분석 보고서 
 
-- - -
-
-
-** 가설1 : 형용사를 많이 사용하여 표현하면 수치가 높아질 것이다.
+* * *
 
 
-Movie Title - Novitiate 
+### 가설1 : 형용사를 많이 사용하여 표현하면 수치가 높아질 것이다.
+
+##Movie Title - Novitiate 
 
 Review: The anguish of Margaret Qualley is riveting, and Melissa Leo delivers a powerhouse performance in this solemn, soulful melodrama, pulling back the curtain on the secrecy of convent life.
 Predicted sentiment: Positive
@@ -17,9 +16,9 @@ Probability: 0.9
 - - -
 
 
-** 가설 2 : 스포일러가 있다는 것을 알리면 영화가 굉장히 좋은 평을 받거나 아주 나쁜 평으로 갈릴 것이다.
+### 가설 2 : 스포일러가 있다는 것을 알리면 영화가 굉장히 좋은 평을 받거나 아주 나쁜 평으로 갈릴 것이다.
 
-Movie - Blade Runner
+## Movie - Blade Runner
 
 Review :
  'Perfect music by Vangelis, perfect acting by Harrison Ford and Sean Young, haunting performance by Rutger Hauer, Ridley Scott at his best, SFX almost up-to-date, what can I say?'
@@ -41,9 +40,9 @@ Probability: 1.0
 
 
 
-** 가설 3 : ...을 많이 사용하면 아쉬움이 많이 묻어있는 평점을 남길 것이다.
+### 가설 3 : ...을 많이 사용하면 아쉬움이 많이 묻어있는 평점을 남길 것이다.
 
-Movie Title - GeoStorm
+## Movie Title - GeoStorm
 
 Review: This was bad.... really bad! I am a big disaster movie fan and can sit through most things, but wow this was really boring.. the characters are shallow, predictable and the chemistry between them stilted and forced.
 Predicted sentiment: Negative
